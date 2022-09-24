@@ -1,6 +1,8 @@
 # Android_Common_Intents
 Opening Web Page of given URL by ACTION_VIEW
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 #### 1st Activity 
@@ -19,7 +21,5 @@ if (intent.resolveActivity(getPackageManager()) != null)
 ```
 
 # App Highlight
-
-<img src="app_images/Open Webpage Code.png" width="1000" /><br>
-
-<img src="app_images/Open Webpage App.png" width="300" /><br>
+![Open Webpage App](https://user-images.githubusercontent.com/74413402/192092982-6869cf7d-bf89-4391-b223-58328af64e42.png)
+![Open Webpage Code](https://user-images.githubusercontent.com/74413402/192092979-3ff0256e-a1a5-4401-b197-6ea03724e96d.png)
